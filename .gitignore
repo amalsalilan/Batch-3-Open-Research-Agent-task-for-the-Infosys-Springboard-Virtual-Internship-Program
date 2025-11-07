@@ -1,0 +1,11 @@
+# Ignore notebooks that might contain secrets
+*.ipynb
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore key files
+api_key.txt
+keys.txt
+secret.txt
